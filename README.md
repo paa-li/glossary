@@ -26,4 +26,6 @@ y r l ḷ v s h
 
 5. Varieties of English definitions within a similar context must be separated with a semicolon and a space `; `. English definitions with a different meaning or context must be divided with a comma and a space. `. `.
 
-6. A Chinese term must not be simple a translation of the Pāḷi word into modern Mandarin; it must be a **Buddhist term** formally and globally recognized in Mahayana Buddhism. If there is no formally recognized equivalent, it must be left empty.
+6. A Chinese term is not a (modern) Mandarin translation of the Pāḷi word; it must be a **Buddhist term** formally and globally recognized in Mahayana Buddhism. If there is no formally recognized equivalent, it must be left empty.
+
+7. The glossary does not serve as a mini-dictionary of the Pāḷi language; the glossary must *mainly* list words of two categories: 1) Terminologies of Pāḷi linguistics and 2) Names and categories of Pāḷi texts, such as Nikāyas.
