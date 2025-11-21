@@ -4,6 +4,6 @@
 
 We welcome any feedback. All feedback should be factually correct supported by appropriate sources.
 
-Rows must be listed in the **alphabetical order of the Pāḷi language** of the Pāḷi word entries (first column.) The alphabet order of Pāḷi is as follows:
+Rows must be listed in the **alphabetical order of the Pāḷi language** based on the Pāḷi word entries (first column.) The alphabet order of Pāḷi is as follows:
 
 `a` `ā` `i` `ī` `u` `ū` `e` `o` `ṁ` `k` `kh` `g` `gh` `ṅ` `c` `ch` `j` `jh` `ñ` `ṭ` `ṭh` `ḍ` `ḍh` `ṇ` `t` `th` `d` `dh` `n` `p` `ph` `b` `bh` `m` `y` `r` `l` `ḷ` `v` `s` `h`
