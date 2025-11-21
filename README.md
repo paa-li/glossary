@@ -6,13 +6,13 @@ We sincerely appreciate any constructive feedback! This is a work in progress, s
 
 ## Rules
 
-1. All feedback must be factually correct supported by appropriate sources.
+1. A feedback must be factually correct supported by appropriate sources.
 
 2. The glossary is not intended to serve as a mini-dictionary of the Pāḷi language; the glossary must *mainly* list words of two categories:
     1) Terminologies of Pāḷi linguistics
     2) names and categories of Pāḷi texts, such as Nikāyas.
 
-4. Rows must be listed in the **alphabetical order of the Pāḷi language written in ISO 15919** based on the Pāḷi word entries. The alphabet order of Pāḷi is as follows:
+4. Rows must be listed in the **alphabetical order of the Pāḷi language written in ISO 15919** based on the Pāḷi word entries. The alphabet order of Pāḷi is as follows (from left to right, top to bottom:)
 ```
 a ā i ī u ū e o
 ṁ
