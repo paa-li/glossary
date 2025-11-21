@@ -28,7 +28,7 @@ y r l ḷ v s h
 
 6. **3rd column - English**: Varieties of English definitions within a similar context must be separated with a semicolon and a space (`; `). English definitions with a different meaning or context must be divided with a comma and a space (`. `).
 
-7. **4th column - Chinese**: A Chinese term is not a (modern) Mandarin translation of the Pāḷi word; it must be a **Buddhist term** formally and globally recognized in Mahayana Buddhism. If there is no formally recognized equivalent, it must be left empty. Use 繁體字 instead of 简体字.
+7. **4th column - Chinese**: A Chinese term is not a (modern) Mandarin translation of the Pāḷi word; it must be a **Buddhist term** formally and globally recognized in Mahayana Buddhism. (業 and 法 are listed as examples.) If there is no formally recognized equivalent, it must be left empty. Use 繁體字 instead of 简体字.
 
 ***
 
