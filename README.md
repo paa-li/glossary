@@ -29,7 +29,7 @@ y r l ḷ v s h
     - Synonyms of Pāḷi words must be listed as a separate entry.
 
 5. **2nd column - Sanskrit**
-    - If there is no known or related Sanskrit equivalent of the Pāḷi word, it must be left as blank.
+    - If there is no known or related Sanskrit equivalent of the Pāḷi word, it must be left empty.
     - If the Sanskrit equivalent is identical to the Pāḷi word, it must be marked with an equal sign (`=`).
 
 6. **3rd column - English**
