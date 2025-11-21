@@ -1,6 +1,6 @@
 ## What
 
-[entry.csv](https://github.com/paa-li/glossary/blob/main/entry.csv) is the CSV file that behaves as a database for the [glossary](https://paa.li/glossary/) page of PaaLi.
+[entry.csv](https://github.com/paa-li/glossary/blob/main/entry.csv) is the database of the [glossary](https://paa.li/glossary/) page of PaaLi.
 
 We sincerely appreciate any constructive feedback! This is a work in progress, so expect a lot of changes.
 
@@ -12,7 +12,7 @@ We sincerely appreciate any constructive feedback! This is a work in progress, s
     1) Terminologies of Pāḷi linguistics
     2) names and categories of Pāḷi texts, such as Nikāyas.
 
-4. Rows must be listed in the **alphabetical order of the Pāḷi language written in ISO 15919** based on the Pāḷi word entries. The alphabet order of Pāḷi is as follows (from left to right, top to bottom:)
+4. Rows must be listed in the **alphabetical order of the Pāḷi language written in [ISO 15919](https://en.wikipedia.org/wiki/ISO_15919)** based on the Pāḷi word entries. The alphabet order of Pāḷi is as follows (from left to right, top to bottom:)
 ```
 a ā i ī u ū e o
 ṁ
