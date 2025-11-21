@@ -8,9 +8,11 @@ We sincerely appreciate any constructive feedback.
 
 1. All feedback must be factually correct supported by appropriate sources.
 
-2. The glossary does not serve as a mini-dictionary of the Pāḷi language; the glossary must *mainly* list words of two categories: 1) Terminologies of Pāḷi linguistics and 2) names and categories of Pāḷi texts, such as Nikāyas.
+2. The glossary does not serve as a mini-dictionary of the Pāḷi language; the glossary must *mainly* list words of two categories:
+    1) Terminologies of Pāḷi linguistics
+    2) names and categories of Pāḷi texts, such as Nikāyas.
 
-3. Rows must be listed in the **alphabetical order of the Pāḷi language written in ISO 15919** based on the Pāḷi word entries. The alphabet order of Pāḷi is as follows:
+4. Rows must be listed in the **alphabetical order of the Pāḷi language written in ISO 15919** based on the Pāḷi word entries. The alphabet order of Pāḷi is as follows:
 ```
 a ā i ī u ū e o
 ṁ
@@ -22,13 +24,23 @@ p ph b bh m
 y r l ḷ v s h
 ```
 
-4. **1st column - Pāḷi**: A Pāḷi word entry must only contain one word per row. Synonyms of Pāḷi words must be listed as a separate entry.
+4. **1st column - Pāḷi**
+    - A Pāḷi word entry must only contain one word per row.
+    - Synonyms of Pāḷi words must be listed as a separate entry.
 
-5. **2nd column - Sanskrit**: If there is no known or related Sanskrit equivalent of the Pāḷi word, it must be left as blank. If the Sanskrit equivalent is identical to the Pāḷi word, it must be marked with an equal sign (`=`).
+5. **2nd column - Sanskrit**
+    - If there is no known or related Sanskrit equivalent of the Pāḷi word, it must be left as blank.
+    - If the Sanskrit equivalent is identical to the Pāḷi word, it must be marked with an equal sign (`=`).
 
-6. **3rd column - English**: Varieties of English definitions within a similar context must be separated with a semicolon and a space (`; `). English definitions with a different meaning or context must be divided with a comma and a space (`. `).
+6. **3rd column - English**
+    - Varieties of English definitions within a similar context must be separated with a semicolon and a space (`; `).
+    - English definitions with a different meaning or context must be divided with a comma and a space (`. `).
 
-7. **4th column - Chinese**: A Chinese term is not a (modern) Mandarin translation of the Pāḷi word; it must be a **Buddhist term** formally and globally recognized in Mahayana Buddhism. (業 and 法 are listed as examples.) If there is no formally recognized equivalent, it must be left empty. Use 繁體字 instead of 简体字.
+7. **4th column - Chinese**
+    - A Chinese term is not a (modern) Mandarin translation of the Pāḷi word; it must be a **Buddhist term** formally and globally recognized in Mahayana Buddhism.
+       - (業 and 法 are listed as examples.)
+    - If there is no formally recognized equivalent, it must be left empty.
+    - Use 繁體字 instead of 简体字.
 
 ***
 
