@@ -20,7 +20,7 @@ p ph b bh m
 y r l ḷ v s h
 ```
 
-3. Synonyms of Pāḷi words must be listed as a separate entry.
+3. A Pāḷi word entry must only contain one word per row. Synonyms of Pāḷi words must be listed as a separate entry.
 
 4. If there is no known or related Sanskrit equivalent of the Pāḷi word, it must be left as blank. If the Sanskrit equivalent is identical to the Pāḷi word, it must be marked with an equal sign `=`.
 
