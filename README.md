@@ -8,8 +8,17 @@ We welcome any feedback.
 
 1. All feedback must be factually correct supported by appropriate sources.
 
-2. Rows must be listed in the **alphabetical order of the Pāḷi language** based on the Pāḷi word entries (first column.) The alphabet order of Pāḷi is as follows:
-    - `a` `ā` `i` `ī` `u` `ū` `e` `o` `ṁ` `k` `kh` `g` `gh` `ṅ` `c` `ch` `j` `jh` `ñ` `ṭ` `ṭh` `ḍ` `ḍh` `ṇ` `t` `th` `d` `dh` `n` `p` `ph` `b` `bh` `m` `y` `r` `l` `ḷ` `v` `s` `h`
+2. Rows must be listed in the **alphabetical order of the Pāḷi language written in ISO 15919** based on the Pāḷi word entries (first column.) The alphabet order of Pāḷi is as follows:
+```
+a ā i ī u ū e o
+ṁ
+k kh g gh ṅ
+c ch j jh ñ
+ṭ ṭh ḍ ḍh ṇ
+t th d dh n
+p ph b bh m
+y r l ḷ v s h
+```
 
 3. Synonyms of Pāḷi words must be listed as a separate entry.
 
