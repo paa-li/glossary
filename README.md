@@ -1,8 +1,8 @@
 ## What
 
-[entry.csv](https://github.com/paa-li/glossary/blob/main/entry.csv) is the CSV file that behaves as a database for the [glossary](https://paa.li/glossary/) page of Paa.Li.
+[entry.csv](https://github.com/paa-li/glossary/blob/main/entry.csv) is the CSV file that behaves as a database for the [glossary](https://paa.li/glossary/) page of PaaLi.
 
-We welcome any feedback. 
+We sincerely appreciate any constructive feedback. 
 
 ## Rules
 
