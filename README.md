@@ -32,6 +32,7 @@ y r l ḷ v s h
     - A Sanskrit term is not simply a Sanskrit translation of the Pāḷi term; it is meant to denote the etymology from wich the Pāḷi word originates.
     - If there is no known or related Sanskrit equivalent of the Pāḷi word, it must be left empty.
     - If the Sanskrit equivalent is identical to the Pāḷi word, it must be marked with an equal sign (`=`).
+    - Sanskrit terms should be written in [IAST](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration).
 
 7. **3rd column - English**
     - Varieties of English definitions within a similar context must be separated with a semicolon and a space (`; `).
