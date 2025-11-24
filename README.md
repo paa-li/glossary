@@ -27,12 +27,13 @@ y r l ḷ v s h
 4. **1st column - Pāḷi**
     - A Pāḷi word entry must only contain one word per row.
     - Synonyms of Pāḷi words must be listed as a separate entry.
+    - Pāḷi terms must be written in [ISO 15919](https://en.wikipedia.org/wiki/ISO_15919), with the letter `ṁ` (U+1E41) as the [niggahīta](https://suttacentral.net/define/niggah%C4%ABta).
 
 5. **2nd column - Sanskrit**
     - A Sanskrit term is not simply a Sanskrit translation of the Pāḷi term; it is meant to denote the etymology from wich the Pāḷi word originates.
     - If there is no known or related Sanskrit equivalent of the Pāḷi word, it must be left empty.
     - If the Sanskrit equivalent is identical to the Pāḷi word, it must be marked with an equal sign (`=`).
-    - Sanskrit terms should be written in [IAST](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration).
+    - Sanskrit terms must be written in [IAST](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration).
 
 7. **3rd column - English**
     - Varieties of English definitions within a similar context must be separated with a semicolon and a space (`; `).
