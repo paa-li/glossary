@@ -42,6 +42,8 @@ y r l ḷ v s h
     - If there is no formally recognized equivalent, it must be left empty.
     - Use 繁體字 instead of 简体字.
 
+9. Double quotes `" "` can be optionally used to group a single entry with spaces into one.
+
 ***
 
 `wget` from `https://paa-li.github.io/glossary/entry.csv`
